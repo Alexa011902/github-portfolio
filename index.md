@@ -71,3 +71,12 @@ You can view or download my resume below.
 [Download My Resume (PDF)](Skyla_Alexa_Valle_Resume.pdf)
 
 <iframe src="Skyla_Alexa_Valle_Resume.pdf" width="100%" height="600px"></iframe>
+
+
+## Contact
+
+**Email:** [alexavalle.2002@gmail.com](mailto:alexavalle.2002@gmail.com)
+
+**LinkedIn:** [View my LinkedIn profile](https://www.linkedin.com/in/skyla-valle-a94740450/)
+
+**GitHub:** [View my GitHub profile](https://github.com/Alexa011902)
