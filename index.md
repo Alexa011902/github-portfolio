@@ -41,11 +41,21 @@ A C++ program that simulates different cache mapping techniques, including direc
 
 **Technologies:** C++.
 
+
+![Simple Cache Simulator - Direct-Mapped Cache Test](screenshots/Simple-Cache-Simulator/direct-mapped-cache.png)
+
+![Simple Cache Simulator - Fully Associative Cache Test](screenshots/Simple-Cache-Simulator/fully-associative-cache.png)
+
 ### Ocean Data Explorer
 
 A Python data analysis project that explores ocean temperature, sea level, and plastic waste using data analysis and visualizations.
 
 **Technologies:** Python, pandas, matplotlib.
+
+
+![Ocean Data Explorer - Plastic Waste Chart](screenshots/Ocean-Data-Explorer/plastic-waste-chart.png)
+
+![Ocean Data Explorer - Sea Level Chart](screenshots/Ocean-Data-Explorer/sea-level-chart.png)
 
 ## Skills
 
