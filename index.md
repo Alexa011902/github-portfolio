@@ -30,6 +30,11 @@ An AI-powered study assistant that helps students understand topics, create stud
 
 **Technologies:** Python, Streamlit, Gemini API.
 
+
+![StudyBuddy AI - Generate a Quiz 1](screenshots/StudyBuddy-AI/generate-quiz-1.png)
+
+![StudyBuddy AI - Generate a Quiz 2](screenshots/StudyBuddy-AI/generate-quiz-2.png)
+
 ### Simple Cache Simulator
 
 A C++ program that simulates different cache mapping techniques, including direct mapped, set-associative, and fully associative caches.
