@@ -40,4 +40,3 @@ Ocean-Data-Explorer/
 
    `pip install -r requirements.txt
 
-   GitHub Repository: [paste your Ocean Data Explorer folder link]
