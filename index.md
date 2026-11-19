@@ -9,7 +9,6 @@ Welcome to my professional portfolio!
 I am a computer science student interested in programming, data analysis, and using technology to support ocean conservation and marine research.
 
 ## About Me
-## About Me
 
 Hello! My name is Skyla Valle, and I am a student pursuing a degree in Computer and Information Sciences, with an expected graduation date of Fall 2027. I have developed an interest in technology, programming, and discovering how computer science can be used to solve real-world problems. Throughout my education, I have been building my technical knowledge and gaining hands-on experience through different programming projects.
 
