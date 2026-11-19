@@ -42,6 +42,28 @@ A Python data analysis project that explores ocean temperature, sea level, and p
 
 **Technologies:** Python, pandas, matplotlib.
 
+## Skills
+
+### Programming
+- Python
+- C++
+- JavaScript (Currently Learning)
+
+### Data Analysis and Visualization
+- pandas
+- matplotlib
+
+### AI Tools
+- Google Gemini API
+- Streamlit
+
+### Version Control
+- Git
+- GitHub
+
+### Cloud Platforms
+- Streamlit Community Cloud
+
 ## Resume
 
 You can view or download my resume below.
