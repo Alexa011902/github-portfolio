@@ -22,6 +22,26 @@ As I continue my education, I plan to strengthen my skills in programming, stati
 
 Ultimately, I want to build a career where I can combine my passion for technology with my interest in protecting the ocean. I believe that continuing to learn, developing new skills, and gaining practical experience will help me work toward that goal.
 
+## Projects
+
+### StudyBuddy AI
+
+An AI-powered study assistant that helps students understand topics, create study guides, and generate quizzes.
+
+**Technologies:** Python, Streamlit, Gemini API.
+
+### Simple Cache Simulator
+
+A C++ program that simulates different cache mapping techniques, including direct mapped, set-associative, and fully associative caches.
+
+**Technologies:** C++.
+
+### Ocean Data Explorer
+
+A Python data analysis project that explores ocean temperature, sea level, and plastic waste using data analysis and visualizations.
+
+**Technologies:** Python, pandas, matplotlib.
+
 ## Resume
 
 You can view or download my resume below.
