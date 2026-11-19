@@ -35,6 +35,7 @@ An AI-powered study assistant that helps students understand topics, create stud
 
 ![StudyBuddy AI - Generate a Quiz 2](screenshots/StudyBuddy-AI/generate-quiz-2.png)
 
+[View StudyBuddy AI Source Code on GitHub](https://github.com/Alexa011902/github-portfolio/tree/main/projects/StudyBuddy-AI)
 ### Simple Cache Simulator
 
 A C++ program that simulates different cache mapping techniques, including direct mapped, set-associative, and fully associative caches.
@@ -45,6 +46,7 @@ A C++ program that simulates different cache mapping techniques, including direc
 
 ![Simple Cache Simulator - Fully Associative Cache Test](screenshots/Simple-Cache-Simulator/Part%202-Fully%20Associative%20Cache%20Test.png)
 
+[View Simple Cache Simulator Source Code on GitHub](https://github.com/Alexa011902/github-portfolio/tree/main/projects/Simple-Cache-Simulator)
 
 ### Ocean Data Explorer
 
@@ -57,6 +59,7 @@ A Python data analysis project that explores ocean temperature, sea level, and p
 
 ![Ocean Data Explorer - Sea Level Chart](screenshots/Ocean-Data-Explorer/sea-level-chart.png)
 
+[View Ocean Data Explorer Source Code on GitHub](https://github.com/Alexa011902/github-portfolio/tree/main/projects/Ocean-Data-Explorer)
 ## Skills
 
 ### Programming
