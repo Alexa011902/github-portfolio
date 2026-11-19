@@ -27,3 +27,5 @@ Ultimately, I want to build a career where I can combine my passion for technolo
 You can view or download my resume below.
 
 [Download My Resume (PDF)](Skyla_Alexa_Valle_Resume.pdf)
+
+<iframe src="Skyla_Alexa_Valle_Resume.pdf" width="100%" height="600px"></iframe>
