@@ -21,3 +21,9 @@ Beyond computer science, I have a strong interest in the ocean, marine animals, 
 As I continue my education, I plan to strengthen my skills in programming, statistics, data analysis, and scientific data visualization. I also hope to gain more experience with technologies used in environmental and marine research.
 
 Ultimately, I want to build a career where I can combine my passion for technology with my interest in protecting the ocean. I believe that continuing to learn, developing new skills, and gaining practical experience will help me work toward that goal.
+
+## Resume
+
+You can view or download my resume below.
+
+[Download My Resume (PDF)](Skyla_Alexa_Valle_Resume.pdf)
