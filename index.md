@@ -41,10 +41,9 @@ A C++ program that simulates different cache mapping techniques, including direc
 
 **Technologies:** C++.
 
+![Simple Cache Simulator - Direct-Mapped Cache Test](screenshots/Simple-Cache-Simulator/Part%202-%20Direct-Mapped%20Cache%20Test.png)
 
-![Simple Cache Simulator - Direct-Mapped Cache Test](screenshots/Simple-Cache-Simulator/direct-mapped-cache.png)
-
-![Simple Cache Simulator - Fully Associative Cache Test](screenshots/Simple-Cache-Simulator/fully-associative-cache.png)
+![Simple Cache Simulator - Fully Associative Cache Test](screenshots/Simple-Cache-Simulator/Part%202-Fully%20Associative%20Cache%20Test.png)
 
 ### Ocean Data Explorer
 
