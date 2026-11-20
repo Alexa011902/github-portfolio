@@ -44,20 +44,25 @@ Ocean-Data-Explorer/
 
 1. Clone or download the project repository.
 2. Open a terminal in the Ocean-Data-Explorer project folder.
-3. Create and activate a virtual environment (optional but recommended):
+3. Create a virtual environment:
 
    ```bash
    python3 -m venv .venv
+   ```
+
+4. Activate the virtual environment:
+
+   ```bash
    source .venv/bin/activate
    ```
 
-4. Install the required libraries:
+5. Install the required libraries:
 
    ```bash
    pip install -r requirements.txt
    ```
 
-5. Run the Python program:
+6. Run the Python program:
 
    ```bash
    python ocean_analysis.py
