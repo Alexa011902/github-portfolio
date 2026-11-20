@@ -63,4 +63,14 @@ Ocean-Data-Explorer/
    python ocean_analysis.py
    ```
 
-The program reads the dataset from the `data` folder, displays basic statistics, and generates
+The program reads the dataset from the `data` folder, displays basic statistics, and generates charts in the `images` folder.
+
+**Note:** This project uses simulated sample ocean data for demonstration and educational purposes. It does not use live ocean measurements.
+
+## Project Screenshots
+
+The project includes three visualizations:
+
+- `images/ocean_temperature.png` – Ocean temperature over time.
+- `images/sea_level.png` – Sea level changes over time.
+- `images/plastic_waste.png` – Plastic waste over time.
