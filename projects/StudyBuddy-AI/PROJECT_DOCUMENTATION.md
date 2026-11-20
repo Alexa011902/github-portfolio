@@ -71,7 +71,9 @@ All three features were successfully tested.
 
 ## 8. Security
 
-The Gemini API key is stored in a private `.env` file rather than being written directly into the application code. The `.gitignore` file is used to help prevent the private key from being uploaded to GitHub.
+The Gemini API key is stored in a private `.env` file during local development rather than being written directly into the application code. The `.gitignore` file helps prevent the private key and other sensitive files from being uploaded to GitHub.
+
+For the deployed application on Streamlit Community Cloud, Streamlit Secrets is used to securely store the API key.
 
 ## 9. Conclusion
 
