@@ -45,7 +45,7 @@ A Python data analysis and visualization project that explores ocean-related inf
 
 ## Resume
 
-[Download My Resume (PDF)](Skyla_Alexa_Valle_Resume_Updated.pdf)
+[Download My Resume (PDF)](Skyla_Alexa_Valle_Resume.pdf)
 
 ## Documentation
 
