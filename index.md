@@ -86,7 +86,7 @@ A Python data analysis project that explores ocean temperature, sea level, and p
 
 You can view or download my resume below.
 
-[Download My Resume (PDF)](Skyla_Alexa_Valle_Resume.pdf)
+<a href="Skyla_Alexa_Valle_Resume.pdf" style="display:inline-block; padding:12px 20px; background-color:#159957; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Download My Resume (PDF)</a>
 
 <iframe src="Skyla_Alexa_Valle_Resume.pdf" width="100%" height="600px"></iframe>
 
