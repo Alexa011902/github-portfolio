@@ -28,7 +28,7 @@ The project README identifies these features:
 
 ## 5. Data and Measures
 
-The input dataset is stored in `data/ocean_data.csv`. The analysis focuses on:
+The input dataset is stored in `ocean_data.csv`. The analysis focuses on:
 
 1. Ocean temperature.
 2. Sea level.
@@ -48,18 +48,20 @@ The charts provide a visual way to inspect the data being analyzed.
 
 ## 7. Project Structure
 
-The project README identifies this basic structure:
+The project repository contains the following files:
 
 ```text
 Ocean-Data-Explorer/
-├── data/
-│   └── ocean_data.csv
+├── ocean_data.csv
 ├── ocean_analysis.py
 ├── requirements.txt
-└── README.md
+├── README.md
+├── ocean_temperature.png
+├── sea_level.png
+└── plastic_waste.png
 ```
 
-The project repository also contains generated chart images.
+The CSV file contains the input dataset, the Python script performs the analysis, and the three PNG files contain the generated visualizations.
 
 ## 8. Installation and Setup
 
@@ -68,8 +70,8 @@ The project repository also contains generated chart images.
 3. (Recommended) Create and activate a virtual environment:
 
    ```bash
- python3 -m venv .venv
-source .venv/bin/activate
+   python3 -m venv .venv
+   source .venv/bin/activate
    ```
 
 4. Install the required libraries:
@@ -100,10 +102,12 @@ The project was run locally after its Python environment and dependencies were s
 ## 11. Project Files
 
 - `ocean_analysis.py` — Python script that performs the analysis.
-- `data/ocean_data.csv` — input dataset.
+- `ocean_data.csv` — input dataset.
 - `requirements.txt` — required Python packages.
 - `README.md` — project overview and usage instructions.
-- `images/` — folder containing the generated charts in the portfolio copy.
+- `ocean_temperature.png` — generated ocean temperature chart.
+- `sea_level.png` — generated sea-level chart.
+- `plastic_waste.png` — generated plastic-waste chart.
 
 ## 12. Limitations and Considerations
 
