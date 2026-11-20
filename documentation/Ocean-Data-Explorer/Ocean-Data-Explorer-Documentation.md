@@ -68,8 +68,8 @@ The project repository also contains generated chart images.
 3. (Recommended) Create and activate a virtual environment:
 
    ```bash
-   python3 -m venv .venv
-   source .venv/bin/activate
+ python3 -m venv .venv
+source .venv/bin/activate
    ```
 
 4. Install the required libraries:
