@@ -82,8 +82,10 @@ For this sample sequence, the 4-way set-associative and fully associative config
 
 ## 10. Project Files
 
+## 10. Project Files
+
 - `SimpleCache.cpp` — C++ source code for the simulator.
-- `SimpleCache` — compiled executable produced by the compilation command.
+- `README.md` — Provides project information, compilation instructions, and sample test details.
 
 ## 11. Summary
 
